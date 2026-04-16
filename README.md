@@ -42,14 +42,8 @@ Foi desenvolvido para ser responsivo, elegante e pronto para personalização.
 └── README.md
 ```
 
-## Autora
 
-**Daniela Velter**  
-GitHub: [@Daniela2319](https://github.com/Daniela2319)  
-LinkedIn: [danielavelteredu](https://www.linkedin.com/in/danielavelteredu/)
 
----
 
-## Template Padrão (para próximos projetos)
 
-Copie e adapte o arquivo [README_TEMPLATE.md](./README_TEMPLATE.md) para manter o mesmo padrão de documentação.
+
